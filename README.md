@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/40740128/149644817-3dce914a-8746-4e51-80d9-9c4affb5c772.png" width="50%" />
 
-`Sandoll 고딕 Neo1` 폰트를 써야 하지만, 유료 폰트라 `Noto Sans` 고딕체 사용
+`Sandoll 고딕 Neo1` 폰트를 써야 하지만, 유료 폰트라 `Noto Sans Light` 고딕체 사용
 
 ---
 
