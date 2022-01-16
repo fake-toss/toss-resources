@@ -13,3 +13,9 @@
 ### [Text Rules](https://brand.toss.im/textrules)
 
 <img src="https://user-images.githubusercontent.com/40740128/149644817-3dce914a-8746-4e51-80d9-9c4affb5c772.png" width="50%" />
+
+---
+
+## 저작권 이슈!
+
+앱 아이콘만 지금 조직 프사처럼 안하면 상관 없곘..지?
